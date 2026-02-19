@@ -6,7 +6,7 @@ A premium, design-focused chimney sweep website featuring a stunning hero experi
 
 ## Live Demo
 
-**View the website:** [ember-ash-chimney-care.example.com](https://)
+**View the website:** [DEMO LINK](https://ionutrobert.github.io/ember-ash-chimney-care/)
 
 ---
 
